@@ -1,6 +1,6 @@
 # CPU Memory Optimization Examples
 
-Companion code for the blog post [RAM vs VRAM: A Complete Guide to How CPUs and GPUs Use Memory](https://rfrenoy.github.io/blog/ram-vs-vram/).
+Companion code for the blog post [RAM vs VRAM: A Complete Guide to How CPUs and GPUs Use Memory](https://rfrenoy.github.io/blog/why-llm-inference-slower-on-cpu/).
 
 These benchmarks demonstrate three key CPU memory optimization concepts with measurable performance differences.
 
