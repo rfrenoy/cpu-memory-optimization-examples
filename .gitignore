@@ -1,0 +1,5 @@
+sequential_vs_strided
+aos_vs_soa
+scalar_vs_simd
+*.o
+*.dSYM/
